@@ -5,6 +5,8 @@ Requirements:
  * Vagrant (tested with 1.6.5)
  * Ansible (tested with 1.7.2)
 
-Instructions
+Instructions:
+
 *```git clone git@github.com:jveiga/vagrant-elixir.git```
+
 *```vagrant up```
